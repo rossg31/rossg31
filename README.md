@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ross Gluyas or @rossg31
+- 👀 I’m interested in Javascript, Pyhton, CSS & HTML.
+- 🌱 I’m currently learning React, Github & Saas.
+- 📫 How to reach me: ross.gluyas@gmail.com
